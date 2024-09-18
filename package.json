@@ -30,8 +30,8 @@
     "usetimeout-react-hook": "^0.1.2"
   },
   "devDependencies": {
-    "@types/react": "^17.0.0",
-    "@types/react-native": "^0.63.46",
+     "@types/react": "~18.3.7",
+    "@types/react-native": "~0.73.0",
     "@types/react-native-background-timer": "^2.0.0",
     "react-native-background-timer": "^2.4.1",
     "rimraf": "^2.6.3",
@@ -42,7 +42,7 @@
     "ws": ">=3.3.1"
   },
   "peerDependencies": {
-    "react": "^17.0.0",
+    "react": "^17.0.0 || 18.2.0",
     "react-native": "^0.63.0 || ^0.74.5",
     "react-native-background-timer": "^2.4.1"
   }
